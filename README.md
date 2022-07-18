@@ -1,13 +1,18 @@
 # Project REST-Rant
-##### REST-Rant is an app where users can review restaurants.
+REST-Rant is an app where users can review restaurants.
 ## Planning
-### User Stories
+#### User Stories
 * As a local blah blah blah...
 * As a local blah blah blah...
 * As a local blah blah blah...
 * As a local blah blah blah...
 * As a local blah blah blah...
 * As a local blah blah blah...
+#### color sceme
+* RGB 117, 138, 130
+* RGB 130, 117, 138
+* RGB 138, 130, 117
+
 ## Routes
 | Method | Path | Purpose |
 |---|---|---|
